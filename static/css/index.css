@@ -1,6 +1,10 @@
-@import "navigation.css";
-@import "container.css";
-@import "header.css";
-@import "center-content.css";
-@import "bottom-links.css";
-@import "font.css";
+@import "commons.css";
+@import "button.css";
+@import "contenuto_editoriale.css";
+@import "hero.css";
+@import "main.css";
+@import "icone.css";
+@import "titolo.css";
+@import "lista.css";
+@import "nav.css";
+@import "section.css";
